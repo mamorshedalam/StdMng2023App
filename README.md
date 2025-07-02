@@ -1,0 +1,2 @@
+# StdMng2023App
+
